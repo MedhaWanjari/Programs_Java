@@ -19,7 +19,7 @@ public class Lab222_Throwexample {
 
     public static void main(String[] args) {
         validate_age(17);
-        FileInputStream f = new FileInputStream("C:/a.log");
+        //FileInputStream f = new FileInputStream("C:/a.log");
     }
 }
 
